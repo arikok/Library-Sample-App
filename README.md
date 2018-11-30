@@ -1,5 +1,5 @@
 # LibrarySample
-lightweight library sample - April 2015
+Lightweight library sample - April 2015
 
 A sample usage of Spring Framework , MongoDB and AngularJs
 
