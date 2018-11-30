@@ -1,4 +1,4 @@
-# LibrarySample
+# LibrarySample - Please do not use it before update dependencies
 Lightweight library sample - April 2015
 
 A sample usage of Spring Framework , MongoDB and AngularJs
